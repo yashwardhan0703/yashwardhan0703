@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yashwardhan Shakya</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast</h3>
+<h3 align="center">🚀 DevOps Engineer | Microservices & SaaS Systems</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Working on **production-grade DevOps pipelines (Docker, Kubernetes, AWS)**
-- 🚀 Building **CI/CD systems & scalable infrastructure**
-- 🤝 Open to **DevOps & Cloud-native collaborations**
-- 🌱 Learning **Terraform | Kubernetes (CKA) | Monitoring (Prometheus, Grafana)**
-- 💬 Ask me about **CI/CD, Docker, Kubernetes, AWS, SQL**
-- ⚡ Fun fact: *I debug faster than logs load 😄*
+- 🔭 Building **production-ready DevOps pipelines** using Docker, Kubernetes, CI/CD & AWS  
+- 🏗️ Working with **Microservices & SaaS-based architectures** (deployment, scaling, reliability)  
+- ⚙️ Strong focus on **automation, system design & failure handling**  
+- 🌐 Hands-on with **real-world deployments (Nginx, reverse proxy, domain setup, HTTPS)**  
+- 🔁 Implementing **end-to-end CI/CD (GitHub → Docker → Docker Hub → Server)**  
+- 🌱 Currently leveling up in **Terraform, Kubernetes (CKA), Observability (Prometheus, Grafana)**  
+- 💬 Ask me about **CI/CD, Docker, Kubernetes, AWS, SQL, debugging production systems**  
+- ⚡ Fun fact: *I debug systems using logs & data flows, not guesswork*
 
 ---
 
@@ -51,11 +53,22 @@
 
 ---
 
+## 🏗️ What I Actually Work On
+
+- 🔁 End-to-end CI/CD pipelines (GitHub → Docker → Docker Hub → Server deploy)
+- 🌐 Nginx production setup (multi-domain, reverse proxy, HTTPS)
+- 🧩 Microservices deployment & communication
+- 📦 Container orchestration using Kubernetes
+- 📊 Monitoring & debugging using logs + metrics
+- ⚡ Handling failures, restarts & system reliability
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashwardhan-shakya&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwardhan-shakya&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashwardhan0703&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwardhan0703&theme=tokyonight" />
 </p>
 
 ---
@@ -63,7 +76,7 @@
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwardhan-shakya&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwardhan0703&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -78,16 +91,24 @@
 ### 💳 Credit Approval System
 - Containerized backend system
 - Simulates real-world **loan approval workflows**
-- DevOps pipeline integrated
+- CI/CD pipeline integrated
 
 ---
 
-## 📌 DevOps Philosophy
+## 🧠 Engineering Mindset
 
-> "Automate everything. Monitor everything. Scale anything."
+- I focus on **production behavior, not just local setup**
+- I design systems that are **scalable, automated & fault-tolerant**
+- I solve problems using **logs, metrics & real data**
 
 ---
 
 ## 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=yashwardhan-shakya&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=yashwardhan0703&icon=0&color=0)
+
+---
+
+## 🚀 DevOps Philosophy
+
+> "Automate everything. Monitor everything. Scale anything."
